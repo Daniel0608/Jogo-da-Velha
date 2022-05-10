@@ -1,0 +1,8 @@
+{
+  "name": "jogo_da_velha",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
